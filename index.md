@@ -7,14 +7,13 @@ title: Julia Kastner
 ---
 # Julia Kastner
 
-Hi, I am a Doctoral Student in Cryptography at ETH Zurich under the supervision of [Dennis Hofheinz](kjdf.de). 
+<img src="julia.jpg" alt="Portrait of me" style="height: 200px"/>
 
-You can find me on the various research related "social media":
+Hi, I am a Doctoral Student in the [Foundations of Cryptography Group](https://foc.ethz.ch) at ETH Zurich under the supervision of [Dennis Hofheinz](kjdf.de). 
 
-[DBLP](https://dblp.org/pid/209/1548.html)
+Contact: firstname.lastname [ät] inf.ethz.ch
 
-[Google Scholar](https://scholar.google.com/citations?user=iUKyNFEAAAAJ&hl=en)
-
-[ORCID](https://orcid.org/0000-0002-8879-8226)
-
+[DBLP](https://dblp.org/pid/209/1548.html) 
+[Google Scholar](https://scholar.google.com/citations?user=iUKyNFEAAAAJ&hl=en) 
+[ORCID](https://orcid.org/0000-0002-8879-8226) 
 [researchgate](https://www.researchgate.net/profile/Julia-Kastner-7)
