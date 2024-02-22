@@ -1,3 +1,13 @@
+---
+layout: default
+title: Pulications
+
+---
 # Publications
 
-Please see my [DBLP](https://dblp.org/pid/209/1548.html) for an updated list of publications.
+  {% for item in site.data.publications %}
+     * {{item.authors}} : 
+       {{item.title}}. {{item.proceedings}}
+       [Published Version]({{item.conference_link}}) [Full Version]({{item.fullversion_link}}) [Video]({{item.video_link}}) 
+
+  {% endfor %}

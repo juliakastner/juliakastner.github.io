@@ -1,0 +1,69 @@
+-authors: Julia Kastner, Ky Nguyen, and Michael Reichle
+    	title : Pairing-Free Blind Signatures from Standard Assumptions in the ROM
+    	proceedings: Not yet published
+    	fullversion_link: https://eprint.iacr.org/2023/1810
+
+-authors: Dennis Hofheinz, Julia Kastner, Akin Ünal, and Bogdan Ursu
+    		title: Decoding LTFs in the Generic Group Model
+    		proceedings: Not yet published
+    		fullversion_link: https://eprint.iacr.org/2023/866
+
+-authors : Dennis Hofheinz, Kristina Hostáková, Julia Kastner, Karen Klein, and Akin Ünal
+    		title:Compact Lossy Trapdoor Functions and Selective Opening Security From LWE
+    		proceedings: PKC 2024
+    		fullversion_link: https://eprint.iacr.org/2023/864
+
+-authors: Julia Kastner, Julian Loss, and Omar Renawi
+    		title: Concurrent Security of Anonymous Credentials Light, Revisited
+    		proceedings: ACM CCS 2023
+    		fullversion_link: https://eprint.iacr.org/2023/707
+    		conference_link: https://dl.acm.org/doi/10.1145/3576915.3623184
+
+- authors: Dennis Hofheinz, Julia Kastner, and Karen Klein
+    	    title: The Power of Undirected Rewindings for Adaptive Security
+    	    proceedings: CRYPTO 2023
+    	    fullversion_link: https://eprint.iacr.org/2023/875
+    	    conference_link: https://link.springer.com/chapter/10.1007/978-3-031-38545-2_24
+    	    slides_link: https://iacr.org/submit/files/slides/2023/crypto/crypto2023/301/slides.pdf
+    	    video_link: https://youtu.be/AzZ672teyuQ?si=viSHZb24uwe1M7ef&t=2651
+
+- authors: Julia Kastner, Julian Loss, and Jiayu Xu
+            title: The Abe-Okamoto Partially Blind Signature Scheme Revisited
+            proceedings: ASIACRYPT 2022
+            fullversion_link: https://eprint.iacr.org/2022/1232
+            conference_link: https://link.springer.com/chapter/10.1007/978-3-031-22972-5_10
+            slides_link: https://iacr.org/submit/files/slides/2022/asiacrypt/asiacrypt2022/332/slides.pdf
+            video_link: https://youtu.be/SFkQCsGNSJM?t=1444
+-
+            authors: Nicholas Brandt, Dennis Hofheinz, Julia Kastner, and Akin Ünal
+            title: The Price of Verifiability: Lower Bounds for Verifiable Random Functions
+            proceedings: TCC 2022
+            fullversion_link: https://eprint.iacr.org/2022/762
+            conference_link: https://link.springer.com/chapter/10.1007/978-3-031-22365-5_26
+            slides_link: https://iacr.org/submit/files/slides/2022/tcc/tcc2022/83/slides.pdf
+            video_link: https://youtu.be/-E8MHlpID8o?t=2838
+- authors: Julia Kastner, Julian Loss, and Jiayu Xu
+            title: On Pairing-Free Blind Signature Schemes in the Algebraic Group Model
+            proceedings: PKC 2022
+            conference_link: https://link.springer.com/chapter/10.1007/978-3-030-97131-1_16
+            fullversion_link: https://eprint.iacr.org/2020/1071
+            video_link: https://www.youtube.com/watch?v=QHdo873afFQ
+ - authors: Thomas Agrikola, Dennis Hofheinz, and Julia Kastner
+            title: On Instantiating the Algebraic Group Model from Falsifiable Assumptions
+            proceedings: EUROCRYPT 2020
+            conference_link: https://link.springer.com/chapter/10.1007/978-3-030-45724-2_4
+            fullversion_link: https://eprint.iacr.org/2020/070
+            video_link: https://youtube.com/watch?v=gXNvO0nhBzE
+-
+            authors: Julia Kastner and Jiaxin Pan
+            title: Towards Instantiating the Algebraic Group Model
+            proceedings: Not yet published
+            fullversion_link: https://eprint.iacr.org/2019/1018
+-
+            authors: Julia Kastner, Alexander Koch, Stefan Walzer, Daiki Miyahara, Yu-ichi Hayashi, Takaaki Mizuki, and Hideaki Sone
+            title: The Minimum Number of Cards in Practical Card-Based  rotocols
+            proceedings: ASIACRYPT 2017
+            conference_link: https://link.springer.com/chapter/10.1007/978-3-319-70700-6_5
+            fullversion_link: https://eprint.iacr.org/2017/863
+            video_link: https://www.youtube.com/watch?v=hZ0gAmPXE60
+        
