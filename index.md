@@ -9,7 +9,7 @@ title: Julia Kastner
 
 <img src="julia.jpg" alt="Portrait of me" style="height: 200px"/>
 
-Hi, I am a Doctoral Student in the [Foundations of Cryptography Group](https://foc.ethz.ch) at ETH Zurich under the supervision of [Dennis Hofheinz](kjdf.de). 
+Hi, I am a Research Assistant in the [Foundations of Cryptography Group](https://foc.ethz.ch) at ETH Zurich where I recently graduated from my Doctoral Studies under the supervision of [Dennis Hofheinz](kjdf.de). 
 
 Contact: firstname.lastname [ät] inf.ethz.ch
 
