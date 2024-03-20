@@ -13,7 +13,7 @@ I am co-organizing a [Workshop](https://informatiktage.ch/eth/einfuehrung-in-die
 
 ### Attributes and Blindness (AB+)
 
-I will be a speaker at the Attributes and Blindness (AB+) workshop affiliated with [Eurocrypt 2024](https://eurocrypt.iacr.org/2024/).
+I will be a speaker at the [Attributes and Blindness (AB+)](https://abplusec.github.io/) workshop affiliated with [Eurocrypt 2024](https://eurocrypt.iacr.org/2024/).
 
 ### Eurocrypt 2024
 
