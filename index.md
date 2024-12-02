@@ -9,11 +9,13 @@ title: Julia Kastner
 
 <img src="julia.jpg" alt="Portrait of me" style="height: 200px"/>
 
-Hi, I am a postdoctoral researcher in the [Cryptology Group](https://www.cwi.nl/en/groups/cryptology/) at CWI under the supervision of [Serge Fehr](https://homepages.cwi.nl/~fehr/). 
+Hi, I am a postdoctoral researcher in the [Cryptology Group](https://www.cwi.nl/en/groups/cryptology/) at CWI. 
 Before that, I was a member of the  [Foundations of Cryptography Group](https://foc.ethz.ch) at ETH Zurich where I graduated from my Doctoral Studies under the supervision of [Dennis Hofheinz](kjdf.de). 
-Before that, I completed my BSc and MSc degrees in computer science at [Karlsruhe Institute of Technology](https://www.kit.edu)
+Before that, I completed my BSc and MSc degrees in computer science at [Karlsruhe Institute of Technology](https://www.kit.edu).
 
-Contact: firstname.lastname [ät] inf.ethz.ch
+My current research focuses on advanced digital signatures such as blind signatures and anonymous credentials, as well as investigating lower bounds and impossibility results for various types of schemes.
+
+Contact: firstname.lastname [ät] cwi.nl
 
 [DBLP](https://dblp.org/pid/209/1548.html) 
 
