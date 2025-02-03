@@ -6,7 +6,7 @@ title: Activities
 # Activities
 
 ## Reviewing Activity
-I am a member of the Program Committee of  [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/).
+I am a member of the Program Committee of  [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/) and [ProTeCS 2025](https://protecs-workshop.gitlab.io/).
 
 I have been a reviewer for Designs, Codes and Cryptography.
 
