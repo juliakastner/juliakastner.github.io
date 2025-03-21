@@ -6,11 +6,11 @@ title: Activities
 # Activities
 
 ## Scientific Service
-I was/am a member of the Program Committee of  [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/), [ProTeCS 2025](https://protecs-workshop.gitlab.io/), and [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/).
+I was/am a member of the Program Committees of  [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/), [ProTeCS 2025](https://protecs-workshop.gitlab.io/), and [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/).
 
 I have been a reviewer for Designs, Codes and Cryptography.
 
-I have subreviewed for Eurocrypt 2024, PKC 2023, and TCC 2022.
+I have subreviewed for Crypto 2025, Eurocrypt 2024, PKC 2023, and TCC 2022.
 
 
 ## List of Talks
