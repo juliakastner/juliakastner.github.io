@@ -5,8 +5,56 @@ font-family: Tahoma, Verdana, sans-serif
 }
 
  body {background-color: DarkSeaGreen;
-       color: DarkSlateGray}
+       color: DarkSlateGray;
+         width: 50%;
+  min-width: 1200px;}
        
-current {
-	color: DarkGreen;
-} 
+
+nav {
+  display: block;
+  background-color: DarkSlateGray;
+  list-style-type: none;
+  width: 50%;
+  min-width: 1200px;
+  margin: 0 auto;
+  padding:0  50px ;
+  overflow: hidden;
+  text-align: center;
+}
+
+nav li {
+  float: left;
+  display:inline;
+}
+
+nav a {
+  display: block;
+  padding: 8px;
+  background-color: DarkSlateGray;
+      display: block;
+  color: DarkSeaGreen;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+nav a:hover:not(.current) {
+  background-color: #111;
+}
+
+
+nav a:hover.current {
+  background-color: SeaGreen;
+}
+
+.current {
+  background-color: DarkSeaGreen;
+  Color: DarkSlateGray;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
