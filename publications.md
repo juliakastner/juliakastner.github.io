@@ -3,7 +3,18 @@ layout: default
 title: Pulications
 
 ---
-# Publications
+
+ # Preprints and Unpublished Manuscripts
+
+  {% for item in site.data.preprints %}
+  * {{item.authors}} : 
+
+    {{item.title}}. 
+
+    {% if item.fullversion_link %}[PDF]({{item.fullversion_link}}){% endif %}
+
+  {% endfor %}
+# Peer-Reviewed Publications
 
   {% for item in site.data.publications %}
   * {{item.authors}} : 
