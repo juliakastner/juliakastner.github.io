@@ -6,7 +6,9 @@ title: Activities
 # Activities
 
 ## Scientific Service
-I was/am a member of the Program Committees of  [Eurocrypt 2026](https://eurocrypt.iacr.org/2026), [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/), [ProTeCS 2025](https://protecs-workshop.gitlab.io/), and [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/).
+Since 2026, I am on the editorial board of [Communications in Cryptology](https://cic.iacr.org/).
+
+I was/am a member of the Program Committees of  [Eurocrypt 2026](https://eurocrypt.iacr.org/2026), [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/) (awarded  **Distinguished PC member**), [ProTeCS 2025](https://protecs-workshop.gitlab.io/), and [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/).
 
 I have been a reviewer for Designs, Codes and Cryptography.
 
