@@ -1,3 +1,13 @@
+- authors: Marian Dietz, Julia Kastner, and Stefano Tessaro
+  title: On the Impossibility of Round-Optimal Pairing-Free Blind Signatures in the ROM
+  proceedings: Not yet published
+  fullversion_link: https://eprint.iacr.org/2026/090
+  
+- authors: Julia Kastner, Stefano Tessaro, and Greg Zaverucha
+  title: Round-Optimal Pairing-Free Blind Signatures
+  proceedings: Not yet published
+  fullversion_link: https://eprint.iacr.org/2026/091
+   
 - authors: Foteini Baldimtsi, Julia Kastner, Julian Loss, and Omar Renawi
   title: Secure Showing of Partial Attributes
   proceedings: Not yet published
