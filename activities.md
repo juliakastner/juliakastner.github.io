@@ -18,9 +18,9 @@ I have subreviewed for Crypto 2025, Eurocrypt 2024, PKC 2023, and TCC 2022.
 ## List of Talks
 For recordings of talks at conferences see the [Publications](/publications.html) site.
 
-
-  * November 2024, Crypto Working Group (organized by TU Eindhoven in Utrecht): Round-Optimal Pairing-Free Blind Signatures in the ROM
-  * October 2024, IRIF AlgoComp Seminar: Round-Optimal Pairing-Free Blind Signatures in the ROM
+  * March 2026, Ruhr University Bochum: On the Impossibility of Round-Optimal Pairing-Free Blind Signatures in the ROM
+  * November 2024, Crypto Working Group Seminar (organized by TU Eindhoven in Utrecht): Pairing-Free Blind Signatures from Standard Assumptions in the ROM
+  * October 2024, IRIF AlgoComp Seminar: Pairing-Free Blind Signatures from Standard Assumptions in the ROM
   * May 2024, Eurocrypt affiliated workshop AB+: On Two-Witness Blind Signature Schemes
   * January 2024, CWI: On Two-Witness Blind Signature Schemes
   * January 2024, Bocconi University: On Two-Witness Blind Signature Schemes 
